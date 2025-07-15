@@ -1,0 +1,11 @@
+=== COMBINED DATA ===
+
+Content from File1:
+Hello from File 1!
+This is the first file.
+
+Content from File2:
+Hello from File 2!
+This is the second file.
+
+=== END OF COMBINED DATA ===
